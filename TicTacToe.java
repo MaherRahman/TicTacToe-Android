@@ -100,3 +100,16 @@ public class TicTacToe {
     }
 
 }
+
+
+// make an enumerated Data Type. 
+
+public enum Symbols {
+
+    Blank, X, O
+
+}
+
+public enum Results {
+    Player, Computer, Draw, inProgress
+}
